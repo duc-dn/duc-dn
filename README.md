@@ -12,7 +12,8 @@
 ### 📊 Data & Lakehouse
 - Apache Iceberg, Delta Lake  
 - Apache Spark, Apache Flink  
-- Kafka, Kafka Connect, Debezium (CDC from Postgres/MySQL/MongoDB)  
+- Kafka, Kafka Connect, Debezium (CDC from Postgres/MySQL/MongoDB)
+- 🕒 Workflow Orchestration & Scheduling: Airflow, Cronjob, Cloud Scheduler
 
 ### ☁️ Cloud & Storage
 - Google BigQuery, Cloud Scheduler  
