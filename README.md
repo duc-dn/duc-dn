@@ -9,11 +9,14 @@
 
 ## 🔧 Tech Stack
 
+### 💻 Programming Languages
+- Python (ETL, APIs, data pipelines, orchestration)  
+- Java (Big Data, Kafka, Flink, Spark ecosystem)  
+
 ### 📊 Data & Lakehouse
 - Apache Iceberg, Delta Lake  
 - Apache Spark, Apache Flink  
-- Kafka, Kafka Connect, Debezium (CDC from Postgres/MySQL/MongoDB)
-- 🕒 Workflow Orchestration & Scheduling: Airflow, Cronjob, Cloud Scheduler
+- Kafka, Kafka Connect, Debezium (CDC from Postgres/MySQL/MongoDB)  
 
 ### ☁️ Cloud & Storage
 - Google BigQuery, Cloud Scheduler  
@@ -25,15 +28,19 @@
 - Qdrant (Vector Database)  
 
 ### 📈 BI & Visualization
-- Apache Superset, Redash
+- Apache Superset  
+
+### 🕒 Workflow Orchestration & Scheduling
+- Apache Airflow, Cronjob, Cloud Scheduler  
 
 ### ⚙️ DevOps & Infra
 - Docker, Docker Compose  
 - Kubernetes, Helm  
+- Terraform, GitHub Actions  
 
 ### 🌐 API & Software
 - FastAPI  
-- Git, GitHub (version control & collaboration)  
+- Git, GitHub (version control & collaboration) 
 
 ---
 
